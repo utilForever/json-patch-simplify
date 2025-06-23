@@ -1,2 +1,2 @@
 # json-patch-simplify
-Simplify JSON patch for remove redundant operations
+Simplify JSON patch to remove redundant operations
